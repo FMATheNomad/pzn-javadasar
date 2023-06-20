@@ -16,7 +16,7 @@ public class IfStatement {
             System.out.println("Nilai y adalah bilangan ganjil");
         }
 
-        int z = -3;
+        int z = 0;
 
         if (z > 0) {
             System.out.println("Nilai z adalah bilangan positif");
